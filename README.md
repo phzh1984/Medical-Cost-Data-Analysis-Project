@@ -10,10 +10,15 @@ The dataset used in this project provides information about health insurance ben
 Variable Description：
 
 Age: Age of primary beneficiary 
+
 BMI: Body Mass Index 
+
 Children: Number of children covered by health insurance 
+
 Smoker: Smoking 
+
 Region: The beneficiary's residential area in the US 
+
 Charges: Individual medical costs billed by health insurance
 
 Objective
